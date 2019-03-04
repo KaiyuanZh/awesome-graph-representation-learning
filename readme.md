@@ -12,8 +12,7 @@ A curated list of awesome adversarial machine learning resources, inspired by [A
 - [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199), C. Szegedy et al., arxiv 2014
 - [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572), I. Goodfellow et al., ICLR 2015
 - [Adversarial Attack on Graph Structured Data](https://arxiv.org/pdf/1806.02371), Hanjun Dai et al., ICML 2018
-- [Adversarial attacks on classification
-models for graphs](https://arxiv.org/pdf/1805.07984.pdf), Daniel Zügner et al., KDD 2018
+- [Adversarial Attacks on Neural Networks for Graph Data](https://arxiv.org/pdf/1805.07984.pdf), Daniel Zügner et al., KDD 2018
 
 ## Tutorials
 - [NIPS 2016 Workshop on Adversarial Training](https://sites.google.com/site/nips2016adversarial/)
