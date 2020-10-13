@@ -47,6 +47,7 @@ A curated list of awesome graph representation learning, inspired by [Awesome Ad
 - [KDD 2018 Graph Representation Tutorial]( https://ivanbrugere.github.io/kdd2018/)
 - [WWW 2018 Representation Learning on Networks Tutorial](http://snap.stanford.edu/proj/embeddings-www/)
 - [AAAI 2019 Graph Representation Learning Tutorial ](https://jian-tang.com/files/AAAI19/aaai-grltutorial-part0-intro.pdf)
+- [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
 
 ### Adversarial learing
 - [NeurIPS 2016 Workshop on Adversarial Training](https://sites.google.com/site/nips2016adversarial/)
